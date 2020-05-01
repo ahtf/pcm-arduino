@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "pcm-arduino.ino",
+    "port": "COM12"
+}
